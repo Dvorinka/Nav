@@ -1,5 +1,7 @@
 # Magic Navigation Menu Indicator Using HTML CSS JavaScript
 
+Live Preview: https://magicnavigationmenu.vercel.app/
+
 ![Magic Navigation Menu Indicator](MagicNavigationMenu.png)
 
 A magic navigation menu indicator created using HTML, CSS, and JavaScript is a dynamic and visually captivating navigation element on a webpage. This effect typically involves an animated indicator that moves seamlessly along with the user's navigation, highlighting the active menu item. The magic indicator adds an element of interactivity and engagement to the navigation experience.
