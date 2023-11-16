@@ -1,5 +1,7 @@
 # Magic Navigation Menu Indicator Using HTML CSS JavaScript
 
+Youtube Tutorial Link: https://youtu.be/ZCpQm7Qn03k
+
 Live Preview: https://magicnavigationmenu.vercel.app/
 
 ![Magic Navigation Menu Indicator](MagicNavigationMenu.png)
